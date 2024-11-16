@@ -54,3 +54,7 @@
 </div>
 
 ###
+
+<div aling="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3787531" style='border:none;'></iframe>
+</div>
