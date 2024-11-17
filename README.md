@@ -57,8 +57,6 @@
 
 <div align="center">
   <a href="https://tryhackme.com/r/p/SrTrumpet" target="_blank">
-
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3787531" style='border:none;'></iframe>
-
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SrTrumpet.png" alt="Your Image Badge" />
   </a>
 </div>
