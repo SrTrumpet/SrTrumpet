@@ -54,11 +54,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://tryhackme.com/r/p/SrTrumpet" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SrTrumpet.png" alt="Your Image Badge" />
-  </a>
-</div>
-
-###
