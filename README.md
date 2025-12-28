@@ -1,62 +1,93 @@
 ## Hi there!
-
+#### Certificaciones
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <table>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=DEF6AA238E3AAF145A891BA81DBB593CEC678210ACA8CDCFC9D006578787822A" target="_blank">
+          <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25GAIOCP.png" alt="Oracle Generative AI Professional" width="140"/>
+        </a>
+        <div>Generative AI Professional</div>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=340A7A3D5DFFD8CE94FBBC9C2833E944DB0D5057DB142823A50366D6E4FA15FE" target="_blank">
+          <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" alt="Oracle AI Foundations Associate" width="140"/>
+        </a>
+        <div>AI Foundations Associate</div>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="https://www.credly.com/badges/7df9ea51-078c-4d28-bde4-8047ad2977d4/linked_in_profile" target="_blank">
+          <img src="https://images.credly.com/size/340x340/images/f744e8bd-5112-468d-ad59-da4cabc71f8c/watsonx_20ai_20Practitioner_20Advanced.png" alt="IBM Watsonx AI Practitioner Advanced" width="65" style="margin-left:20px;"/>
+        </a>
+        <div>IBM AI Advanced</div>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="https://app.aluracursos.com/program/certificate/d2ef82e0-b345-4fc8-b1f0-c1aa298bb695?lang" target="_blank">
+          <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGZr9s_iRM8dg/company-logo_100_100/B4DZrgQ1ofGkAQ-/0/1764699102249/alura_latam_logo?e=1768435200&v=beta&t=JJlOeBgpBd2n8gN_xgUQeAN-wZ9Lg_pY6duEMkhcb88" alt="Programa Oracle Next Education F2 T3" width="65" style="margin-left:20px;"/>
+        </a>
+        <div>Next Education F2 T3</div>
+      </td>
+      </td>
+      <td align="center" style="padding:10px;">
+        <a href="https://www.coursera.org/account/accomplishments/verify/46N1BT2XENZB" target="_blank">
+          <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=80&h=80" width="65" style="margin-left:20px;"/>
+        </a>
+        <div>Foundations of Cybersecurity</div>
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrTrumpet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrTrumpet&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
 
+
+
+#### Lenguajes de programacion
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,py,java,cpp" />
+  </a>
+</p>
+
+#### Desarrollo Backend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,fastapi,graphql,apollo,kubernetes,docker,postman" />
+  </a>
+</p>
+
+#### Desarollo Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwindcss,vite,vercel" />
+  </a>
+</p>
+
+#### Bases de datos
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  </a>
+</p>
+
+#### Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+</p>
+
+#### Ciberseguridad
 <div align="center">
   <a href="https://tryhackme.com/r/p/SrTrumpet" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/SrTrumpet.png" alt="Your Image Badge" />
   </a>
 </div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,regex,bash,py" />
+  </a>
+</p
+
+
