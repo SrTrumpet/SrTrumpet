@@ -1,5 +1,5 @@
 ## Hi there!
-#### Certificaciones
+#### Certificados
 <div align="center">
   <table>
     <tr>
@@ -37,11 +37,6 @@
     </tr>
   </table>
 </div>
-
-
-
-
-
 
 #### Lenguajes de programacion
 <p align="center">
