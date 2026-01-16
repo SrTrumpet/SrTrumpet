@@ -23,7 +23,7 @@
       </td>
       <td align="center" style="padding:10px;">
         <a href="https://app.aluracursos.com/program/certificate/d2ef82e0-b345-4fc8-b1f0-c1aa298bb695?lang" target="_blank">
-          <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGZr9s_iRM8dg/company-logo_100_100/B4DZrgQ1ofGkAQ-/0/1764699102249/alura_latam_logo?e=1768435200&v=beta&t=JJlOeBgpBd2n8gN_xgUQeAN-wZ9Lg_pY6duEMkhcb88" alt="Programa Oracle Next Education F2 T3" width="65" style="margin-left:20px;"/>
+          <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGZr9s_iRM8dg/company-logo_200_200/B4DZrgQ1ofGkAI-/0/1764699102249/alura_latam_logo?e=1770249600&v=beta&t=-pTLGSRU63YIQkvKlMmKX-r9eWbnf6HvdU3y0FXF6bE" alt="Programa Oracle Next Education F2 T3" width="65" style="margin-left:20px;"/>
         </a>
         <div>Next Education F2 T3</div>
       </td>
