@@ -69,7 +69,7 @@
 #### Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,terraform" />
   </a>
 </p>
 
