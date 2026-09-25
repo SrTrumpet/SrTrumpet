@@ -48,7 +48,7 @@
 #### Desarrollo Backend
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,fastapi,graphql,apollo,kubernetes,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=nestjs,fastapi,graphql,apollo,kubernetes,docker,postman,prisma" />
   </a>
 </p>
 
