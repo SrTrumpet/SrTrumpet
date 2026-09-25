@@ -62,14 +62,14 @@
 #### Bases de datos
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,mongo,cassandra" />
   </a>
 </p>
 
 #### Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=azure,aws" />
   </a>
 </p>
 
