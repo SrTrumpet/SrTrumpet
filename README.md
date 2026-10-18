@@ -17,7 +17,7 @@
       </td>
       <td align="center" style="padding:10px;">
         <a href="https://www.credly.com/badges/7df9ea51-078c-4d28-bde4-8047ad2977d4/linked_in_profile" target="_blank">
-          <img src="https://images.credly.com/size/340x340/images/f744e8bd-5112-468d-ad59-da4cabc71f8c/watsonx_20ai_20Practitioner_20Advanced.png" alt="IBM Watsonx AI Practitioner Advanced" width="65" style="margin-left:20px;"/>
+          <img  alt="image" src="https://github.com/user-attachments/assets/1937729d-497f-4189-9303-5eda89c65036" width="65" style="margin-left:20px;" />
         </a>
         <div>IBM AI Advanced</div>
       </td>
